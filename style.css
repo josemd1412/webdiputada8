@@ -1,0 +1,17 @@
+.btn-custom{
+  --bs-btn-bg: #F80000;
+  --bs-btn-font-weight: 600;
+  --bs-btn-color: #fff;
+  --bs-btn-border-color: #F80000;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #d40000;
+  --bs-btn-hover-border-color: #d40000;
+}
+
+.btn-outline-custom{
+  --bs-btn-color: #F80000;
+  --bs-btn-border-color: #F80000;
+  --bs-btn-hover-color: #F80000;
+  --bs-btn-hover-bg: #F80000;
+  --bs-btn-hover-border-color: #fff;
+}
